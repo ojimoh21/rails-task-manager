@@ -1,0 +1,22 @@
+@import "bootstrap/scss/bootstrap";
+
+li {
+  list-style: none;
+  padding: 8px;
+}
+
+i {
+  color: #007bff;
+}
+.headers {
+  margin: 10px;
+}
+.deets {
+  background-color: aliceblue;
+  width: 90%;
+  margin: auto;
+  padding: 20px;
+}
+.edit {
+  border: 1px solid black;
+}
